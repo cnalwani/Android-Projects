@@ -1,9 +1,5 @@
 ###### 欢迎关注我
 
-GitHub : https://github.com/zhangman523
-
-Blog   : https://zhangman523.cn
-
 ---
 
 # AndroidGameSnake
